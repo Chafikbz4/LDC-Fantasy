@@ -19,9 +19,9 @@ Before running the app, make sure you have the following installed:
     Android Studio (for Android emulator or real device testing)
 Step-by-step guide
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/Chafikbz4/LDC-Fantasy.git
+    git clone https://github.com/Chafikbz4/LDC-Fantasy.git
 
 Navigate to the project folder:
 
