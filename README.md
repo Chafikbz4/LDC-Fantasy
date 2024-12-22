@@ -25,14 +25,14 @@ git clone https://github.com/Chafikbz4/LDC-Fantasy.git
 
 Navigate to the project folder:
 
-  cd LDC-Fantasy
+    cd LDC-Fantasy
 
 Install dependencies:
 
-  npm install
+      npm install
 
 Run the app:
 
-  npm start
+      npm start
 
 This will open the Expo development server in your browser.
