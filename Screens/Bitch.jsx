@@ -14,7 +14,7 @@ import { API_URL } from "@env";
 
 const { width, height } = Dimensions.get("window");
 
-const Bitch = () => {
+const stadium = () => {
   const navigation = useNavigation();
   const { updatedPlayers } = useRoute().params || {}; // Get updated players array from params
   const [players, setPlayers] = useState([null, null, null, null, null, null]);
